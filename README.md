@@ -1,4 +1,4 @@
-Here is a repository that contains my homework assignments for various milestones.
+This is a repository that contains my homework assignments for various milestones.
 
 The structure of this repository:
 - milestone_1
